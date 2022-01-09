@@ -1,0 +1,27 @@
+{
+  "name": "rock-paper-scissors-gamedata",
+  "version": "1.0.0",
+  "description": "Rock-paper-scissors Game data visualization using Reaktor API.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amehraj/rock-paper-scissors-gamedata.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amehraj/rock-paper-scissors-gamedata/issues"
+  },
+  "homepage": "https://github.com/amehraj/rock-paper-scissors-gamedata#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
